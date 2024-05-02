@@ -30,6 +30,7 @@ public class Main {
         System.out.println("Hello and welcome!");
         System.out.println("I wrote my first code in Java"); // sout
         System.out.println("I wrote my first code in Java"); // Command - D
+        System.out.println("Push test"); // Command - D
 
         String name = "Karel Dvořák";
         LocalDate date = LocalDate.now(); //musím naimportovat
